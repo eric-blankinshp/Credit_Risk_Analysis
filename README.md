@@ -1,7 +1,5 @@
 # Credit_Risk_Analysis
 
-# Credit_Risk_Analysis
-
 ## Overview
 
 The purpose of this challenge is to apply machine learning to predict credit-risk. Using a data set from LendingClub, oversample the data using the RandomOverSampler and SMOTE algorithms. Undersample the data with ClusterCentroids algorithm. The SMOTEENN algorithm is used for a combination of over and under resampling. BalancedRandomForestClassifier and EasyEnsembleClassifier are used to reduce bias to predict credit risk.
@@ -10,7 +8,7 @@ The purpose of this challenge is to apply machine learning to predict credit-ris
 
 ### Balanced Random Forest Classifier
 
-![Alt text](Users\toonk\OneDrive\Desktop\Data Analytics Bootcamp\Credit_Risk_Analysis\BRFC_accuracy_score.jpg raw=true title = "BRFC_accuracy_score")
+<img width="693" alt="BRFC_accuracy_score" src="https://github.com/eric-blankinshp/Credit_Risk_Analysis/blob/main/Resources/BRFC_accuracy_score.png?raw=true">
 
 * The balanced accuracy score for the Balanced Forest Classifier is ~79%. Although it was not not the best performer, it falls within the realistic range of scores.
 
